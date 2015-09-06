@@ -1,0 +1,15 @@
+{
+  "name": "edge-solitaire-electron",
+  "version": "1.0.0",
+  "description": "Edge Solitaire",
+  "main": "bin/main.js",
+  "keywords": [
+    ""
+  ],
+  "author": "Greg Walker <edge@darkcooger.net>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "mgwalker/edge-solitaire-electron"
+  }
+}
